@@ -1,2 +1,1 @@
-# SWING-IS-KING
-SWING IS KING
+# NIFTY 100 Swing Lab\n\nUpload these files to GitHub and deploy app.py on Streamlit Community Cloud.\n\nThe Monthly Trend Line Break tab follows the supplied TradingView pattern: descending monthly trendline breakout, Monthly EMA 144, and price above/around the 0.50 all-time Fibonacci level. The included symbols are a starter universe; connect a complete NSE equity master for a true all-stock scan.\n
